@@ -13,10 +13,10 @@ assignees: ''
 
 在您发布此Issue前, 请您花一点时间查看下面几条指引🔽
 
-1: ❗ | 确定没有相同问题的ISSUE已被提出. (教程: https://github.com/Mrs4s/go-cqhttp/issues/633)
+1: ❗ | 确定没有相同问题的ISSUE已被提出. (教程: https://github.com/PanDownload-Fix/PanDownload-Fix/issues/1)
 2: 🌎| 请准确填写环境信息.
-3: ❔ | 打开DEBUG模式复现，并提供出现问题前后至少 10 秒的完整日志内容。请自行删除日志内存在的个人信息及敏感内容。
-4: ⚠ | 如果涉及内存泄漏/CPU占用异常请打开DEBUG模式并下载pprof性能分析.
+3: ❔ | 请提供提供出现问题前后至少 10 秒的完整日志内容。请自行删除日志内存在的个人信息及敏感内容。
+
 
 注: 如果您不知道如何有效、精准地表述，我们建议您先阅读《提问的智慧》
 (链接: https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)
