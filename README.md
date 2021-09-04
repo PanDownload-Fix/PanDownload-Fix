@@ -12,6 +12,8 @@
 
 如果在官网上发现有书写错误，或者需要补充的内容，可以对本项目提交 PR，所有文本都在本项目 `/book` 目录下 
 
+---
+
 > 官网：[https://pandownload.net](https://pandownload.net)
 
 > Telegram 群：[https://t.me/pandownloadfix](https://t.me/pandownloadfix)
