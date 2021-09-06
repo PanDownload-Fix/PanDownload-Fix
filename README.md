@@ -1,6 +1,6 @@
 ## 伪PanDownload [PanDownload修复版]
 
-[![GitHub](https://img.shields.io/badge/Project-PanDownload--Fix-brightgreen?style=flat-square)](https://github.com/PanDownload-Fix/PanDownload-Fix)[![GitHub](https://img.shields.io/github/stars/PanDownload-Fix/PanDownload-Fix?style=flat-square)](https://github.com/PanDownload-Fix/PanDownload-Fix)[![GitHub user](https://img.shields.io/badge/author-PanDownload--Fix-brightgreen?style=flat-square)](https://github.com/PanDownload-Fix)
+[![GitHub](https://img.shields.io/badge/Project-PanDownload--Fix-brightgreen?style=flat-square)](https://github.com/PanDownload-Fix/PanDownload-Fix)   [![GitHub](https://img.shields.io/github/stars/PanDownload-Fix/PanDownload-Fix?style=flat-square)](https://github.com/PanDownload-Fix/PanDownload-Fix)   [![GitHub user](https://img.shields.io/badge/author-PanDownload--Fix-brightgreen?style=flat-square)](https://github.com/PanDownload-Fix)
 
 ---
 
