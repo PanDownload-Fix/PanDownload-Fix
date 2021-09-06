@@ -34,6 +34,10 @@
 
 欢迎大家提交 PR 对官网的上的书写错误进行修正和补充。
 
+## 使用方法
+
+[详见官网](https://pandownload.net)
+
 ## 特别鸣谢
 
 - [卢本伟PD](https://github.com/lubenweiPD)
