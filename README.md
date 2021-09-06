@@ -1,6 +1,10 @@
 ## 伪PanDownload [PanDownload修复版]
 
-### 简介
+[![GitHub](https://img.shields.io/badge/Project-PanDownload--Fix-brightgreen?style=flat-square)](https://github.com/PanDownload-Fix/PanDownload-Fix)[![GitHub](https://img.shields.io/github/stars/PanDownload-Fix/PanDownload-Fix?style=flat-square)](https://github.com/PanDownload-Fix/PanDownload-Fix)[![GitHub user](https://img.shields.io/badge/author-PanDownload--Fix-brightgreen?style=flat-square)](https://github.com/PanDownload-Fix)
+
+---
+
+### 项目介绍
 
 本项目为 PanDownload 的修复版，暂命名为 `伪PanDownload`。
 
