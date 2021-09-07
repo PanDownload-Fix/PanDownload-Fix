@@ -1,0 +1,78 @@
+name: Bug report | Bug提交
+description: Please describe in detail the problems you encountered in the process of using | 请详细描述您使用过程中遇到的问题（仅限软件本体问题）
+title: '[Bug] <title>'
+labels: bug
+body:
+  - type: checkboxes
+    id: ensure
+    attributes:
+      label: Verify steps
+      description: "
+在提交之前，请确认
+Please verify that you've followed these steps
+"
+      options:
+        - label: "
+如果你可以自己 debug 并解决的话，提交 PR 一起完善帮助文档吧
+Is this something you can **debug and fix**? Send a pull request! Bug fixes and documentation fixes are welcome.
+"
+          required: true
+        - label: "
+我已经在 [Issue Tracker](https://github.com/PanDownload-Fix/PanDownload-Fix/labels/bug) 中找过我要提出的问题
+I have searched on the [issue tracker](https://github.com/PanDownload-Fix/PanDownload-Fix/labels/bug) for a related issue.
+"
+          required: true
+        - label: "
+我已经使用的是最新版本了，问题依旧存在
+I have using the latest version, and the issue still exists.
+"
+          required: true
+        - label: "
+我已经仔细看过 [Documentation](https://pandownload.net/) 并无法自行解决问题
+I have read the [documentation](https://pandownload.net/) and was unable to solve the issue.
+"
+          required: true
+        - label: "
+这是 PanDownload 本体的问题，并非我所使用的第三方 Lua 的问题（除了“默认”接口外都为第三方 Lua）的特定问题
+This is an issue of the PanDownload *per se*, not to the others third party Lua.
+"
+          required: true
+  - type: input
+    attributes:
+      label: PanDownload version
+    validations:
+      required: true
+  - type: dropdown
+    id: os
+    attributes:
+      label: What OS are you seeing the problem on?
+      multiple: true
+      options:
+        - macOS
+        - Windows
+        - Linux
+        - OpenBSD/FreeBSD
+        - Android
+  - type: textarea
+    attributes:
+      render: yaml
+      label: "Reproduction steps"
+      description: "
+在下方附上 Bug 的内容以及详细复现步骤
+Paste the bug reproduction steps.
+"
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      render: shell
+      label: PanDownload log
+      description: "
+在下方附上 PanDownload 的日志，请自行删除日志内存在的个人信息及敏感内容
+Paste the PanDownload log below with the log level set to `DEBUG`.
+"
+  - type: textarea
+    attributes:
+      label: Description
+    validations:
+      required: true
