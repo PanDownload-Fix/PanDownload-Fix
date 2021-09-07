@@ -1,5 +1,5 @@
 name: Bug report | Bug提交
-description: Please describe in detail the problems you encountered in the process of using | 请详细描述您使用过程中遇到的问题（仅限软件本体问题）
+description: Please describe in detail the problems you encountered in the process of using | 请详细描述您使用过程中遇到的问题（仅限软件本体问题）。
 title: '[Bug] <title>'
 labels: bug
 body:
