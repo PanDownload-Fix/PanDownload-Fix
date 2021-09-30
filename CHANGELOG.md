@@ -1,17 +1,17 @@
-v0.0.3
+## PanDownload Beta 内测版 v0.0.3 Update Notes
 
 1. 修复一键分享下载功能
 2. 修复上个版本造成的部分用户无法正常显示目录BUG
 3. 减少验证码弹出次数（测试中，不知道会不会产生副作用）
 4. 换回之前的版本的编译方式减少杀毒软件误报
 
-v0.0.2
+## PanDownload Beta 内测版 v0.0.2 Update Notes
 
 1. 修复今天开始无法报错分享文件的bug
 2. 增加本地加密lua的支持（测试中）
 3. 修复自动更新
 
-v0.0.1
+## PanDownload Beta 内测版 v0.0.1 Update Notes
 
 1. 修复原版 PanDownload 不能登录百度账号的BUG
 2. 修复原版 PanDownload 不能打开打开分享链接的BUG
@@ -25,3 +25,4 @@ v0.0.1
 10. 修复原版 PanDownload 登录百度账号后无法自动跳转BUG
 11. 修复英文昵称的百度网盘账号无法正常登录BUG
 12. (beta版)尝试修复视频播放功能[目前仅支持自己网盘中的视频播放，且非SVIP账号视频播放过程中容易出现奇怪的问题]
+

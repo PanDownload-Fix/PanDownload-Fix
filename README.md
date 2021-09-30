@@ -20,7 +20,7 @@
 |—— book                            官网的文案存放目录(PS.欢迎提交PR修正和补充)
 |—— docs                            存放修复过程中的笔记的目录(PS.之前没有写笔记的习惯，最近才开始整理)
 |—— static                          静态文件存放目录
-|—— script                          第三方 Lua 扩展存放目录
+|—— scripts                         第三方 Lua 扩展存放目录
 |—— internationalization            多语言支持文本存放目录
 |—— CHANGELOG.md                    更新日志
 |—— README.md                       简体中文 README
