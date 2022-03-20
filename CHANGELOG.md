@@ -1,3 +1,15 @@
+## PanDownload Beta 公测版 v0.0.4 Update Notes
+
+1. 修复部分用户不能登录账号
+2. 修复部分用户不能在线更新
+3. 加快部分用户下载链接加载速度
+
+## PanDownload Beta 公测版 v0.0.3 Update Notes
+
+1. 修复部分情况下的登录跳转失败
+2. 加快启动速度
+3. 进入公测阶段，不再需要注册内测账号即可使用
+
 ## PanDownload Beta 内测版 v0.0.3 Update Notes
 
 1. 修复一键分享下载功能

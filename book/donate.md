@@ -2,8 +2,10 @@
 
 ---
 
-本软件完全免费，目前也没有任何捐赠渠道。
+本软件完全免费，欢迎打赏捐助。
 
-软件里的捐赠为原版 PanDownload 内置的捐赠二维码，与本人无关。
+提示：捐赠完全自愿，表示对本软件的支持，并没有提供额外的功能。
 
-后期如果开放捐赠或者接了广告之类的，会把给域名和服务器续费之外的结余用来自购一批账号用来开设[公益服](./about/commonweal.md)，给一部分不常有下载需求的朋友提供加速下载服务。
+![alipay.png (180×237) (pandownload.net)](https://pandownload.net/images/alipay.png)![wechat.png (180×237) (pandownload.net)](https://pandownload.net/images/wechat.png)
+
+捐赠或者广告收益，会把给域名和服务器续费之外的结余用来自购一批账号用来开设[公益服](./about/commonweal.md)，给一部分不常有下载需求的朋友提供加速下载服务。

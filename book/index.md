@@ -12,10 +12,33 @@
 
 #### 下载地址
 
-- [本地下载](https://oss.shandianpan.com/03a22abe35021d372eb90d4e2c56d3b1.zip)
-- [网盘下载](https://wwa.lanzoui.com/iopPjt2fasj)
+- [网盘下载](https://wwa.lanzouf.com/b011dyrif) (密码:5l4e)
 
 #### 更新日志
+
+v0.0.4
+
+注意：在线更新失败的用户请使用手动更新获取最新的软件
+
+**第一次更新的时候由于更新了部分组件导致win7用户启动报错，现在已经更新了win7兼容版本，win7用户请重新下载，之后的版本会测试好兼容性再发，在此给win7用户抱歉**
+
+更新时间：2022-03-17
+
+1. 修复部分用户不能登录账号
+2. 修复部分用户不能在线更新
+3. 加快部分用户下载链接加载速度
+
+
+
+v0.0.3 公测版
+
+更新时间：2022-03-14
+
+1. 修复部分情况下的登录跳转失败
+2. 加快启动速度
+3. 进入公测阶段，不再需要注册内测账号即可使用
+
+
 
 v0.0.3
 
@@ -88,13 +111,17 @@ v0.0.1 Fix3
 8. 重构默认脚本集成小文件加速通道
 9. 新增[秒传转换脚本](./faq/rapiduploadlink.md)，让 PanDownload 可以变相支持其他格式的秒传链接
 
-#### 邀请码
+#### 交流群
 
-目前在内测阶段先通过邀请码注册
+尽量使用Telegram群交流
 
-等测试结束后会开发注册
+TG频道链接：https://t.me/pandownloadfixs
 
-邀请码目前在TG群不定时发布
+TG群聊链接：[https://t.me/pandownloadfix](https://t.me/pandownloadfix)
 
-TG频道链接：[https://t.me/pandownloadfix](https://t.me/pandownloadfix)
+无法访问国际网络的用户可以到QQ频道交流
+
+QQ频道：手机QQ直接 [点此加入](https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&inviteCode=28brhc&from=181074&biz=ka)
+
+**PS.似乎只有手机QQ才能加入，加入后PC端也会有显示，如果人满了请过段时间再试，我们会尽可能扩容**
 
