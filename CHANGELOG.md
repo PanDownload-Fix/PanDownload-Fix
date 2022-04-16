@@ -1,3 +1,34 @@
+## PanDownload Beta 公测版 v0.0.9 Update Notes
+
+1. 同步重构最新进度
+2. 修复部分用户启动出现0x7错误
+3. 尝试修复部分用户启动闪退
+
+## PanDownload Beta 公测版 v0.0.8 Update Notes
+
+1. 同步重构最新进度
+2. 修复部分批量操作报错问题
+3. 修复部分情况会出现0x7错误
+
+## PanDownload Beta 公测版 v0.0.7 Update Notes
+
+1. 同步目前的重构进度
+2. 解决部分情况下闪退的问题
+
+## PanDownload Beta 公测版 v0.0.6 Update Notes
+
+**为了后续维护更方便，从此版本开始重构，目前代码还没写完，功能仍不完整**
+
+1. 再次尝试修复(-62)问题
+2. 尝试修复之前不能断点续传问题
+
+## PanDownload Beta 公测版 v0.0.5 Update Notes
+
+1. 再次尝试修复部分用户不能登录账号
+2. 尝试修复部分用户已经是最新版本仍然提示更新最新版本问题
+3. 尝试降低杀毒软件误杀率
+4. 回退上个版本某激进更新，解决不兼容win7问题
+
 ## PanDownload Beta 公测版 v0.0.4 Update Notes
 
 1. 修复部分用户不能登录账号

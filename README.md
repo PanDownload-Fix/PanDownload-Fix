@@ -1,8 +1,7 @@
 <div align="center">
   <h1>伪PanDownload</h1>
   伪PanDownload 是 PanDownload 的 一个个人修复版本<br><br>
-
-[![PanDownload](https://img.shields.io/badge/PanDownload-暂未发布-brightgreen?style=flat-square&logo=iCloud)](https://github.com/PanDownload-Fix/PanDownload-Fix)
+[![PanDownload](https://img.shields.io/badge/PanDownload-v0.0.9-brightgreen?style=flat-square&logo=iCloud)](https://github.com/PanDownload-Fix/PanDownload-Fix/tree/main/releases/pandownload)
 [![PanDownload Beta](https://img.shields.io/badge/PanDownload--Beta-V0.0.3-brightgreen?style=flat-square&logo=iCloud)](https://github.com/PanDownload-Fix/PanDownload-Fix)
 [![GitHub](https://img.shields.io/github/stars/PanDownload-Fix/PanDownload-Fix?style=flat-square&logo=GitHub)](https://github.com/PanDownload-Fix/PanDownload-Fix)
 [![Telegrem](https://img.shields.io/badge/Telegrem-@PanDownloadFix-brightgreen?style=flat-square&color=4ab494&logo=Telegram)](https://t.me/PanDownloadFix)
