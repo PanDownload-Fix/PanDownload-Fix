@@ -8,4 +8,4 @@
 
 ③解压完成后，打开 **/百度云解压** 查看已解压的文件
 
-![在线解压](https://ae05.alicdn.com/kf/He63f894fbd9d44bbbfdb6a802ffc5773m.png)
+![img](http://yanxuan.nosdn.127.net/260b92e52e940e7021ccd35daf91a6b8.gif)

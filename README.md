@@ -1,6 +1,10 @@
+<h1 align="center">
+  伪PanDownload
+</h1>
 <p align="center">
-  <h1>伪PanDownload</h1>
-  伪PanDownload 是 PanDownload 的 一个个人修复版本<br><br>
+  伪PanDownload 是 PanDownload 的 一个个人修复版本<br>
+</p>
+<p align="center">
   <a href="https://github.com/PanDownload-Fix/PanDownload-Fix/tree/main/releases/pandownload">
     <img alt="PanDownload" src="https://img.shields.io/badge/PanDownload-v0.0.9-brightgreen?style=flat-square&logo=iCloud"/>
   </a>

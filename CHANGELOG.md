@@ -1,3 +1,23 @@
+## PanDownload Beta 公测版 v0.1.2 Update Notes
+
+更新时间：2022-10-12
+
+1. 跟进百度最新改动，修复不能打开分享链接的问题
+
+## PanDownload Beta 公测版 v0.1.1 Update Notes
+
+更新时间：2022-09-28
+
+1. 跟进百度最新改动，修复不能打开分享链接的问题
+2. 合并未推送的小更新
+
+## PanDownload Beta 公测版 v0.1.0 Update Notes
+
+更新时间：2022-07-04
+
+1. 修复打开分享链接错误
+2. 合并未推送的小更新
+
 ## PanDownload Beta 公测版 v0.0.9 Update Notes
 
 1. 同步重构最新进度

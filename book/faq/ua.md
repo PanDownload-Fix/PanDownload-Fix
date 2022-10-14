@@ -7,7 +7,7 @@
 1. 安装浏览器扩展程序 [User-Agent Switcher for Chrome](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg)
 2. 设置浏览器UA为Opera
 
-![](https://ae04.alicdn.com/kf/H87a72813f8634001a12ede2e842cb1aaG.png)
+![img](http://yanxuan.nosdn.127.net/ef66326efc01f02474a7375728e693f7.gif)
 
 > Chrome应用商店打不开或者其他Chromium内核的浏览器，[请点此下载](https://vkceyugu.cdn.bspapp.com/VKCEYUGU-9833ef26-0a40-4c82-b979-19843ae5ffb1/8b428813-a342-4915-80df-ffbeaf1498ed.crx)
 >
@@ -22,5 +22,5 @@
 
 1. 设置 -> 通用设置 -> 浏览器标识 -> 移动版浏览器标识 -> 塞班
 
-![](https://ae04.alicdn.com/kf/H96e7af66540a4a6cbe7f5db7e66b8eb9Z.png)
+![img](http://yanxuan.nosdn.127.net/0eee953a8f18d1cc804126c613f3afbc.png)
 

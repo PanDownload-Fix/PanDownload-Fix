@@ -8,4 +8,4 @@
 
 ③等待任务下载完成，在文件列表查看已下载的文件
 
-![](https://ae01.alicdn.com/kf/He2787937f87c402b8457751014bca5dd4.png)
+![img](http://yanxuan.nosdn.127.net/4312c18a77f9cf27d8670393c63729b7.gif)
