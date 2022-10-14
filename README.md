@@ -6,7 +6,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/PanDownload-Fix/PanDownload-Fix/tree/main/releases/pandownload">
-    <img alt="PanDownload" src="https://img.shields.io/badge/PanDownload-v0.0.9-brightgreen?style=flat-square&logo=iCloud"/>
+    <img alt="PanDownload" src="https://img.shields.io/badge/PanDownload-v0.1.2-brightgreen?style=flat-square&logo=iCloud"/>
   </a>
   <a href="https://github.com/PanDownload-Fix/PanDownload-Fix/tree/main/releases/pandownload-beta">
     <img alt="PanDownload Beta" src="https://img.shields.io/badge/PanDownload--Beta-V0.0.3-brightgreen?style=flat-square&logo=iCloud"/>
